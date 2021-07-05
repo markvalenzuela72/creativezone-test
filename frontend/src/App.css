@@ -1,0 +1,42 @@
+body img{
+  width: 100%;
+}
+
+body p, input{
+  font-family: 'Lato';
+}
+.masthead {
+  margin-top:-110px;
+  height: 80vh;
+  min-height: 400px;
+  background-image: url('images/main-bg.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.masthead h1{
+  max-width: 400px;
+}
+
+.home-box{
+  background-color: #005ba9;
+  height: 100%;
+  padding: 1em;
+  color: #fff !important;
+}
+
+.home-box.border{
+  background-color: transparent !important;
+  border: 3px solid #005ba9 !important;
+  color: #000 !important;
+}
+
+.home-box.border h2{
+  color:#005ba9 !important;
+}
+
+.home-box input{
+  border-top: 5px solid #005ba9;
+  background: #e6e6e6;
+  border-radius: 0;
+}
