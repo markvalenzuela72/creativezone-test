@@ -128,7 +128,7 @@ class App extends Component {
               </div>
             </div>
             <div class="row equal">
-              <div class="col-12 col-md-6">
+              <div class="col-12 col-md-6 d-none d-md-block">
                 <div class="home-box border">
                   <h2>Facilities</h2>
                   <hr />
